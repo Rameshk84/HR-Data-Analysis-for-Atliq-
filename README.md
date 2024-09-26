@@ -20,6 +20,11 @@ The company HR facing the problem with the employee attendence
 5. Created KPI's and Key insightes
 6. implemented tables for list of attendence
 
+   HR asked some of the feature that trak employee in automated
+   1. Email notifications for employees if there is some percentage of presence to send an email
+   2. automatic data gathering form multiple source when the source is updated the power bi dashboard will be automatically updated
+   3. access privilege security to visual the specif charts for employees for the attendance tracking 
+
 
    What i learned 👨‍⚖️
 1. Understand overall data that i have
